@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# UE4 Specific Ignores
+Transmissions/Intermediate/*
+Transmissions/Saved/*
